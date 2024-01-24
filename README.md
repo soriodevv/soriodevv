@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figa,firebase,github,htl,java,js,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
